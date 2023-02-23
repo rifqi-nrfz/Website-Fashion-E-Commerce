@@ -1,0 +1,4 @@
+EZGflsKdCS2CkLeTlfPB 	(pw website)
+7}1p_zSy|K~~K2fA     	(pw database)
+id18133321_root		(db user)
+id18133321_mytoko	(dbname)
